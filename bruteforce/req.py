@@ -5,10 +5,14 @@ import requests
 
 cabecalho = {'User-agent': 'Windows 12',
              'Referer': 'http://www.siteinexistente.com.br'}
+meus_cookies = {'Ultima-visita': '01-01-2001'}
+dados = {'username': 'admin',
+         'password': '123123'}
+
 texto = None
 try:
     requisicao = requests.post('https://putsreq.com/uiIrN58xcNLQNpoTH9At',
-                               headers=cabecalho)
+                               headers=cabecalho, cookies=meus_cookies, data=dados)
     texto = requisicao.text
 except Exception as e:
     print("requisição com erro:", e)
