@@ -1,4 +1,4 @@
-# requisicao = requests.get('http://www.g1.com.br/')
+# https://www.youtube.com/watch?v=2Co4cjPMTnk&list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm&index=12
 
 import requests
 
