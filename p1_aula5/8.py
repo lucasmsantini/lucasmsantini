@@ -1,0 +1,8 @@
+valor = int(input('Digite o valor em METROS a ser convertido: '))
+print('Valor em kilômetros: {}'.format(valor / 1000), 'km')
+print('Valor em hectômetros: {}'.format(valor / 100), 'hm')
+print('Valor em decâmetros: {}'.format(valor / 10), 'dam')
+print('Valor em metros:', valor, 'm')
+print('Valor em decímetros: {}'.format(valor * 10), 'dm')
+print('Valor em centímetros: {}'.format(valor * 100), 'cm')
+print('Valor em milímetros: {}'.format(valor * 1000), 'mm')

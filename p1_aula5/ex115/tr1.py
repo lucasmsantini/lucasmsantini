@@ -1,0 +1,11 @@
+x, y, name, age, attr = (1, 2.5, 'john', 55, True)
+frutas = ['fruta1', 'fruta2', 'fruta3']
+frutaTupla = ('fruta11', 'fruta22', 'fruta33')
+a = x + y; x = str(x); print(type(x)); print(x); print(y); print(name.find('h'))
+print(frutas[1])
+print(f'teste {len(frutas[1])}')
+print(frutas)
+frutas.insert(2, 'maçã')
+print(frutas)
+frutas.reverse()
+print('reverso\n', frutas)

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72728a30-82b1-4337-aa1a-055daddcd4fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xi50VK3myB8xzpyCpu18gcciK9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/GIT" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="p1_aula5" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="p1_aula5" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas.santini\Desktop\python\p1_aula5\Exercicios" />
+      <recent name="C:\Users\lucas.santini\Desktop\python\p1_aula5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas.santini\Desktop\python\p1_aula5\teste" />
+      <recent name="C:\Users\lucas.santini\Desktop\python\p1_aula5\teste\tete2" />
+      <recent name="C:\Users\lucas.santini\Desktop\python\p1_aula5\16-03-2020\uteis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Traversy Media" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1_aula5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/Traversy Media.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dictt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1_aula5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dict/dictt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1_aula5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pessoa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1_aula5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste/pessoa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tr1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1_aula5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/tr1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.pessoa" />
+        <item itemvalue="Python.Traversy Media" />
+        <item itemvalue="Python.dictt" />
+        <item itemvalue="Python.tr1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lucas.santini\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72728a30-82b1-4337-aa1a-055daddcd4fd" name="Default Changelist" comment="" />
+      <created>1581515851957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581515851957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2424" y="237" key="#Inspections" timestamp="1584012245642">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2424" y="237" key="#Inspections/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584012245642" />
+    <state x="2152" y="198" key="#Inspections/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581530956501" />
+    <state x="2563" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583409086162">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2563" y="358" key="#com.intellij.fileTypes.FileTypeChooser/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1583409086162" />
+    <state x="2325" y="343" key="#com.intellij.fileTypes.FileTypeChooser/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581524534738" />
+    <state x="2290" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581616415202">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2290" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581616415202" />
+    <state x="2439" y="148" key="#tuplas" timestamp="1583345266005">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2439" y="148" key="#tuplas/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1583345266005" />
+    <state x="2478" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582915875316">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2478" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1582915875316" />
+    <state x="501" y="175" key="FileChooserDialogImpl" timestamp="1584963707903">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="2500" y="277" key="FileChooserDialogImpl/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1583345260359" />
+    <state x="501" y="175" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1584963707903" />
+    <state width="1261" height="83" key="GridCell.Tab.0.bottom" timestamp="1585054102470">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1557" height="306" key="GridCell.Tab.0.bottom/0.0.1600.900/-1858.-69.1858.1080@0.0.1600.900" timestamp="1581686342072" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584557436365" />
+    <state width="1261" height="83" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1585054102470" />
+    <state width="1877" height="382" key="GridCell.Tab.0.bottom/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581679848316" />
+    <state width="1261" height="83" key="GridCell.Tab.0.center" timestamp="1585054102469">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1557" height="306" key="GridCell.Tab.0.center/0.0.1600.900/-1858.-69.1858.1080@0.0.1600.900" timestamp="1581686342072" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584557436365" />
+    <state width="1261" height="83" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1585054102469" />
+    <state width="1877" height="382" key="GridCell.Tab.0.center/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581679848315" />
+    <state width="1261" height="83" key="GridCell.Tab.0.left" timestamp="1585054102469">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1557" height="306" key="GridCell.Tab.0.left/0.0.1600.900/-1858.-69.1858.1080@0.0.1600.900" timestamp="1581686342072" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584557436365" />
+    <state width="1261" height="83" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1585054102469" />
+    <state width="1877" height="382" key="GridCell.Tab.0.left/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581679848315" />
+    <state width="1261" height="83" key="GridCell.Tab.0.right" timestamp="1585054102469">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1557" height="306" key="GridCell.Tab.0.right/0.0.1600.900/-1858.-69.1858.1080@0.0.1600.900" timestamp="1581686342072" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584557436365" />
+    <state width="1261" height="83" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1585054102469" />
+    <state width="1877" height="382" key="GridCell.Tab.0.right/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581679848316" />
+    <state width="1557" height="292" key="GridCell.Tab.1.bottom" timestamp="1584467770829">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state width="1557" height="292" key="GridCell.Tab.1.bottom/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584467770829" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581615780096" />
+    <state width="1557" height="292" key="GridCell.Tab.1.center" timestamp="1584467770829">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state width="1557" height="292" key="GridCell.Tab.1.center/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584467770829" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581615780096" />
+    <state width="1557" height="292" key="GridCell.Tab.1.left" timestamp="1584467770829">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state width="1557" height="292" key="GridCell.Tab.1.left/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584467770829" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581615780096" />
+    <state width="1557" height="292" key="GridCell.Tab.1.right" timestamp="1584467770829">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state width="1557" height="292" key="GridCell.Tab.1.right/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584467770829" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581615780096" />
+    <state x="2448" y="266" width="740" height="509" key="Performance.Activity.Monitor" timestamp="1582905792828">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2448" y="266" width="740" height="509" key="Performance.Activity.Monitor/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1582905792828" />
+    <state x="214" y="11" width="1130" height="884" key="SettingsEditor" timestamp="1584963024137">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="217" y="103" key="SettingsEditor/0.0.1600.900/-1858.-69.1858.1080@0.0.1600.900" timestamp="1581688014969" />
+    <state x="2161" y="85" width="1130" height="884" key="SettingsEditor/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584376369871" />
+    <state x="214" y="11" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1584963024137" />
+    <state x="2061" y="182" key="SettingsEditor/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581616396241" />
+    <state x="2441" y="263" width="540" height="524" key="StructurePopup" timestamp="1582906664799">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2441" y="263" width="540" height="524" key="StructurePopup/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1582906664799" />
+    <state x="612" y="292" width="1020" height="613" key="com.intellij.ide.util.TipDialog" timestamp="1584964629895">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="242" y="218" width="899" height="373" key="com.intellij.ide.util.TipDialog/0.0.1600.900/-1858.-69.1858.1080@0.0.1600.900" timestamp="1581687429075" />
+    <state x="343" y="262" key="com.intellij.ide.util.TipDialog/1982.261.1538.900/62.0.1858.1080@62.0.1858.1080" timestamp="1581690214468" />
+    <state x="846" y="410" width="1020" height="613" key="com.intellij.ide.util.TipDialog/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584443928511" />
+    <state x="612" y="292" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1584964629895" />
+    <state x="2186" y="329" key="com.intellij.ide.util.TipDialog/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581616363321" />
+    <state x="532" y="274" key="com.intellij.ide.util.TipDialog/63.0.1537.900/1600.0.1920.1080@63.0.1537.900" timestamp="1581515892682" />
+    <state x="2411" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582117724015">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2411" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1582117724015" />
+    <state x="2416" y="120" width="607" height="804" key="find.popup" timestamp="1584538656661">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2416" y="120" width="607" height="804" key="find.popup/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1584538656661" />
+    <state x="722" y="336" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582547448120">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="722" y="336" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1582547448120" />
+    <state x="2361" y="248" width="700" height="530" key="recent.locations.popup" timestamp="1582285570851">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2361" y="248" width="700" height="530" key="recent.locations.popup/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1582285570851" />
+    <state x="2481" y="268" width="672" height="565" key="search.everywhere.popup" timestamp="1583944851264">
+      <screen x="1982" y="72" width="1538" height="900" />
+    </state>
+    <state x="2481" y="268" width="672" height="565" key="search.everywhere.popup/1982.72.1538.900/62.0.1858.1080@1982.72.1538.900" timestamp="1583944851264" />
+    <state x="2223" y="235" width="672" height="678" key="search.everywhere.popup/63.0.1537.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581615992220" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+n = (input('Digite seu nome completo: ')).strip()
+nome = (n.split())
+print (nome[0])
+print ('Quantos blocos? ',len(nome))
+print (nome[len(nome)-1])
